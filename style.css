@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .container{
+      width: 60%;
+      margin-left: 2em;
+  }
+  .portfolio{
+      display: flex;
+      flex-direction:row;
+  }
+  .portfolio h1,h2{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      padding: 10px;
+  }
+  .portfolio img{
+      width: 200px;
+      height: 190px;
+      border-radius: 60%;
+      border: 3px solid black;
+      box-shadow: 0 2px 4px grey, 0 3px 5px gray;
+  }
