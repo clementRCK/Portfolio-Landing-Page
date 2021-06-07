@@ -7,6 +7,7 @@
       width: 100%;
       margin-right: 2em;
       background-color: lightseagreen;
+      margin-left: 2em;
   }
   .portfolio{
       display: flex;
@@ -49,4 +50,7 @@
 .closure h2{
     display: flex;
     justify-content: flex-start;
+}
+.closure{
+    margin-left: 2em;
 }
