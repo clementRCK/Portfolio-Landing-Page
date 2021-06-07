@@ -46,5 +46,7 @@
 .navigation-bar ul li{
     margin-right: 4em;
 }
-#projects{
+.closure h2{
+    display: flex;
+    justify-content: flex-start;
 }
